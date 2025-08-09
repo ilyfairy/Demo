@@ -1,0 +1,3 @@
+﻿using Demo;
+
+MultidimensionalArrayIndexerTestStruct.Test();
