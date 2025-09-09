@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultidimensionalArrayIndexer", "MultidimensionalArrayIndexer\MultidimensionalArrayIndexer.csproj", "{E8163865-82AD-4F56-8A82-9521BE227D0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainfuckSharp", "BrainfuckSharp\BrainfuckSharp.csproj", "{03C2A111-A3E3-43AA-8AFC-9826A34F90E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E8163865-82AD-4F56-8A82-9521BE227D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8163865-82AD-4F56-8A82-9521BE227D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8163865-82AD-4F56-8A82-9521BE227D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C2A111-A3E3-43AA-8AFC-9826A34F90E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C2A111-A3E3-43AA-8AFC-9826A34F90E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C2A111-A3E3-43AA-8AFC-9826A34F90E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C2A111-A3E3-43AA-8AFC-9826A34F90E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
